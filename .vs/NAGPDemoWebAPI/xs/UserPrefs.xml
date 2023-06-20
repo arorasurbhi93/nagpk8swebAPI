@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{4D8DCA8F-09A8-46A2-90B5-DBDFC85D9069}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NAGPDemoWebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NAGPDemoWebAPI" expanded="True" selected="True">
+            <Node name="NAGPDemoWebAPI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/surbhiarora/Projects/NAGPDemoWebAPI/NAGPDemoWebAPI/Controllers/NAGPDemoUserController.cs" relfile="NAGPDemoWebAPI/Controllers/NAGPDemoUserController.cs" line="31" column="1" />
+      <Breakpoint file="/Users/surbhiarora/Projects/NAGPDemoWebAPI/NAGPDemoWebAPI/Controllers/NAGPDemoUserController.cs" relfile="NAGPDemoWebAPI/Controllers/NAGPDemoUserController.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6hDlIPNsr2ipN+oW22XKhA+hJju4NHtOuOgtyDVoSjo=",
+  "Source": "NAGPDemoWebAPI",
+  "BasePath": "_content/NAGPDemoWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
